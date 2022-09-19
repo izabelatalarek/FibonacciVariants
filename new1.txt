@@ -1,1 +1,2 @@
 //wersja 1, ale poprawiona
+wersja 3
